@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Rekha2006
 - 👀 I’m interested in painting
 - 🌱 I’m currently learning datascience
-- 💞️ I’m looking to collaborate with everyo
+- 💞️ I’m looking to collaborate with everyone
 - 📫 How to reach me , u can reach me through my gmail reddyrekha2905@gmail.com
 - 😄 Pronouns: she
-- ⚡ Fun fact: i can to multiple task at the same time.
+- ⚡ Fun fact: i can do multiple task at the same time.
 
 <!---
 Rekha2006/Rekha2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
